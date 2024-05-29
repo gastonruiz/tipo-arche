@@ -4,7 +4,7 @@ import logo from '../Assets/Images/logoArche.jpeg'
 const 
 Navbar = () => {
 
-const NavBarItems = ["Home", "About Us", "Courses","Gallery"] 
+const NavBarItems = ["Home", "Nosotras", "Cursos","Galeria"] 
 
   return (
       <>
